@@ -1,16 +1,45 @@
-## Hi there 👋
+# Olá, eu sou o Felipe Mendonça! 👋
 
-<!--
-**yLipew/yLipew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Graduando em Inteligência Artificial | Entusiasta de Dados e Tecnologia
 
-Here are some ideas to get you started:
+Sou um estudante apaixonado por transformar dados em decisões e criar soluções inteligentes. Atualmente, estou mergulhado no universo da **Inteligência Artificial**, explorando como modelos preditivos e automações podem impactar o mundo real.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre Mim
+
+- 🎓 Cursando graduação em **Inteligência Artificial**.
+- 🧪 Constantemente aprendendo novas bibliotecas de Ciência de Dados.
+- 🎯 Focado em desenvolver habilidades em Machine Learning e Análise de Dados.
+- 🎂 28 anos.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+### Linguagens e Web
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### Análise de Dados e Office
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) (Nível Intermediário)
+
+---
+
+## 📊 Estatísticas
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+---
+
+## 📫 Vamos nos conectar?
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipexxz98@gmail.com)
+
+---
+*Desenvolvido com ☕ e código por Felipe Mendonça*
