@@ -8,7 +8,7 @@ Sou um estudante apaixonado por transformar dados em decisões e criar soluçõe
 
 ## 🚀 Sobre Mim
 
-- 🎓 Cursando graduação em **Inteligência Artificial**.
+- 🎓 Cursando graduação em **Inteligência Artificial** (2º Período).
 - 🧪 Constantemente aprendendo novas bibliotecas de Ciência de Dados.
 - 🎯 Focado em desenvolver habilidades em Machine Learning e Análise de Dados.
 - 🎂 28 anos.
